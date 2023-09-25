@@ -4,6 +4,9 @@
       <div class="px-6">
         <h1 class="text-black dark:text-zinc-300 font-semibold leading-tight text-4xl md:text-5xl my-5">
           Categories
+          <div>
+            🚧 Currently under development 🚧
+          </div>
         </h1>
         <p class="dark:text-zinc-300">
           Blow All the topics are listed on which either I have written a blog or will write a blog

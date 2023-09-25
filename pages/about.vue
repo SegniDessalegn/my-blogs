@@ -42,10 +42,13 @@ defineOgImage()
           </div>
         </div>
         <h3 class="text-base sm:text-3xl font-semibold pb-7 sm:pb-12">
-          Software Engineer, Problem Solver, Web Enthusiast.
+          <div>
+            🚧 Currently under development 🚧
+          </div>
+          Software Engineer, Problem Solver, AI Enthusiast.
         </h3>
 
-        <p>Hello, fellow human! I'm a software wizard who spends most of his day crafting code spells at @AppsCode in the Bytebuilders team. When I'm not crafting code, you can find me summoning solutions to problems on online judges. Just don't ask me to cast any love spells, my magic only works on machines!</p>
+        <p>Greetings and welcome. I'm an aspiring software engineer, currently in the process of learning and growing. I am interested in all aspects of software development. I also enjoy engaging in competitive programming and have dabbled in AI and ML to some extent. In short, I embrace each day's opportunities and steadily progress as a software engineer.</p>
       </div>
       <div class="hidden sm:block col-span-3">
         <NuxtImg

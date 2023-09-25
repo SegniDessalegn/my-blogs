@@ -4,6 +4,9 @@
       <div class="px-6">
         <h1 class="text-black dark:text-zinc-300   font-semibold leading-tight text-4xl md:text-5xl my-5">
           Welcome To My Blog Site
+          <div>
+            🚧 Currently under development 🚧
+          </div>
         </h1>
         <p class="dark:text-zinc-300  ">
           Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles,
