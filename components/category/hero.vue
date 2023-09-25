@@ -4,7 +4,7 @@
       <div class="px-6">
         <h1 class="text-black dark:text-zinc-300 font-semibold leading-tight text-4xl md:text-5xl my-5">
           Categories
-          <div>
+          <div class="my-10">
             🚧 Currently under development 🚧
           </div>
         </h1>

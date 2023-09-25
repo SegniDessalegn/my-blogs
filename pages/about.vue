@@ -42,7 +42,7 @@ defineOgImage()
           </div>
         </div>
         <h3 class="text-base sm:text-3xl font-semibold pb-7 sm:pb-12">
-          <div>
+          <div class="my-10">
             🚧 Currently under development 🚧
           </div>
           Software Engineer, Problem Solver, AI Enthusiast.
