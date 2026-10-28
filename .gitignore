@@ -5,3 +5,6 @@
 node_modules
 # System files
 *.log
+.yarn/install-state.gz
+build
+dist
