@@ -53,7 +53,7 @@ https://blogs.segni.dev
 # install dependencies
 yarn install
 
-# serve in dev mode, with hot reload at localhost:5173
+# serve in dev mode, with hot reload at localhost:21446
 yarn run dev
 
 # build for production
@@ -63,3 +63,8 @@ yarn run build
 yarn run  preview
 
 ```
+
+The Draftbit preview expects port 21446. Start the sandbox server with
+`./node_modules/.bin/nuxt dev --port 21446 --host 0.0.0.0`.
+Pass flags directly to Nuxt; Yarn's extra `--` separator can cause the CLI to
+ignore them and choose a different port.
